@@ -49,22 +49,22 @@ $(document).ready(function () {
     var swiperWrapper = document.getElementById('swiperWrapper')
     var swiperSlide = [
         {
-            src: 'assest/img/deal.jpg',
+            src: 'assest/img/deal.JPG',
             title: 'برمجة',
             desc: 'هع افضل الخبراء بمجال البرمجة'
         },
         {
-            src: 'assest/img/deal.jpg',
+            src: 'assest/img/deal.JPG',
             title: 'تسويق',
             desc: 'هع افضل الخبراء بمجال البرمجة'
         },
         {
-            src: 'assest/img/deal.jpg',
+            src: 'assest/img/deal.JPG',
             title: 'تصميم',
             desc: 'هع افضل الخبراء بمجال البرمجة'
         },
         {
-            src: 'assest/img/deal.jpg',
+            src: 'assest/img/deal.JPG',
             title: 'تدريب',
             desc: 'هع افضل الخبراء بمجال البرمجة'
         }
